@@ -61,7 +61,7 @@ disableHugoGeneratorInject = false
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "Hi, I'm Remi, CTO @ DexMach! Welcome to my blog where I post about topics relating to Azure and Cloud Native!"
+  homeSubtitle = "Hi, I'm Remi, CTO @ DexMach and welcome to my blog where I post about topics relating to Azure and Cloud Native!"
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
