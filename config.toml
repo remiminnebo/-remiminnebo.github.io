@@ -1,0 +1,53 @@
+baseurl      = "localhost"
+title        = "minnebo.io"
+languageCode = "en-us"
+theme        = "hello-friend-ng"
+paginate     = 10
+
+[params]
+  dateform        = "Mar 13, 2022"
+  dateformShort   = "Mar 13"
+  dateformNum     = "2022-13-03"
+  dateformNumTime = "2022-13-03 15:04"
+
+  # Subtitle for home
+  homeSubtitle = "remi minnebo's blog"
+  {{- $image := resources.Get "images/logo.jpg" -}}
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = false
+
+  # Enable sharing buttons, if you like
+  enableSharingButtons = false
+
+  # Metadata mostly used in document's head
+  description = "My new homepage or blog"
+  keywords = "homepage, blog"
+  images = [""]
+
+[taxonomies]
+    category = "blog"
+    tag      = "tags"
+    series   = "series"
+
+[languages]
+  [languages.en]
+    title = "remi j. minnebo"
+    subtitle = "A website for brain dumps regarding Cloud Native and Azure"
+    keywords = ""
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    readOtherPosts = "Read other posts"
+
+    [languages.en.params.logo]
+      logoText = "remi j. minnebo"
+      logoHomeLink = "/"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
+
+  # And you can even create generic menu
+  [[menu.main]]
+    identifier = "blog"
+    name       = "Blog"
+    url        = "/posts"
