@@ -7,7 +7,7 @@ aliases = ["about-us","about-hugo","contact"]
 +++
 
 
-👋 Hi, I’m **Remi** and I'm the **Chief Technology Officer** at **[DexMach](https://www.dexmach.com)!**
+👋 Hi, I’m **Remi** and I'm the **Cloud architectr** at **[Alter Domus](https://www.alterdomus.com)!**
 
 - 👀 I’m interested in everything related to Cloud Native!
 - 💞️ In my spare time I keep myself busy with cycling, astronomy and the financial markets.
