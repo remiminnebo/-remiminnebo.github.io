@@ -7,7 +7,7 @@ aliases = ["about-us","about-hugo","contact"]
 +++
 
 
-👋 Hi, I’m **Remi** and I'm the **Cloud Platform Lead** at **[Alter Domus](https://www.alterdomus.com)!**
+👋 Hi, I’m **Remi** and I'm the **Head of Cloud Platform Engineering** at **[Alter Domus](https://www.alterdomus.com)!**
 
 - 👀 I’m interested in everything related to Cloud Native!
 - 💞️ In my spare time I keep myself busy with cycling, astronomy and the financial markets.
